@@ -15,5 +15,5 @@ variable "ami_id" {
 variable "bucket_name" {
     description = "to store backup file in s3 bucket "
     type = string
-    default = "restore-statefile-terraform2"  
+    default = "restore-statefile-terraform11"  
 }
